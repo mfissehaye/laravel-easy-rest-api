@@ -1,0 +1,15 @@
+{
+    "name": "mfissehaye/larapi",
+    "description": "Simple API for laravel",
+    "type": "library",
+    "require": {
+        "laravel/passport": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Merhawi Fissehaye",
+            "email": "merhawifissehaye@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
