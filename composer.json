@@ -1,5 +1,5 @@
 {
-    "name": "mfissehaye/larapi",
+    "name": "mfissehaye/laravel-easy-rest-api",
     "description": "Simple API for laravel",
     "type": "library",
     "require": {

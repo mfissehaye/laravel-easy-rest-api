@@ -1,6 +1,6 @@
 <?php
 
-namespace Mfissehaye\Larapi;
+namespace Mfissehaye\EasyRestAPI;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
