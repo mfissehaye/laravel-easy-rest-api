@@ -1,6 +1,6 @@
 <?php
 
-namespace Mfissehaye\EasyRestAPI;
+namespace Mfissehaye\LaravelEasyRestAPI;
 
 use Illuminate\Support\ServiceProvider;
 
